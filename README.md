@@ -16,17 +16,6 @@ The application serves an **OpenAPI 3.0 specification** (`openapi.yaml`) and pro
 
 ---
 
-## Project structure
-
-WA/
-├── broker_API/
-│ ├── app.py
-│ ├── openapi.yaml
-│ └── init.py
-└── README.md
-
----
-
 ## Requirements
 
 To run the application locally, you need:
