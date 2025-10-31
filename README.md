@@ -32,8 +32,7 @@ To run the application locally, you need:
 
 ###  Clone the repository
 ```bash
-git clone https://github.com/<your-github-username>/wehbe-broker-api.git
-cd wehbe-broker-api/broker_API
+https://github.com/Se8o/broker_API.git
 2️⃣ Create a virtual environment
 python -m venv .venv
 source .venv/bin/activate   # macOS / Linux
