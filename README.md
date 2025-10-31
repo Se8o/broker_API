@@ -1,6 +1,6 @@
 # Wehbe Stock Broker API
 
-A REST API documentation server for a fictional **Wehbe Stock Broker** platform.  
+A REST API documentation server for a **Stock Broker** platform.  
 The application serves an **OpenAPI 3.0 specification** (`openapi.yaml`) and provides interactive documentation through **Swagger UI** and **ReDoc**.
 
 ---
